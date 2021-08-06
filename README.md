@@ -1,16 +1,23 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
-**aravind4799/aravind4799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aravind4799/aravind4799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
-Here are some ideas to get you started:
+## Hi there 👋, I am Aravind
+ 
+<!-- - 🔭 I’m currently working on ... -->
+<!-- - 🌱 I’m currently learning about Full Stack Web Development 
+ -->
+- **A final year undergraduate from SSN college of Engineering, chennai.**
+- 🔭 A budding **Full-Stack Software Developer**, who is obsessed with the idea of improving himself and wants a platform to grow and excel  
+- 🌱I'm currently learning **ReactJs** & **NodeJs**
+- 📫 How to reach me aravindkumar471999@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Aravind GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind4799&show_icons=true&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind4799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aravind4799_Github)
