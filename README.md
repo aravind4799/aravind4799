@@ -10,8 +10,8 @@
  -->
 - **A final year undergraduate from SSN college of Engineering, chennai.**
 - 🔭 A budding **Full-Stack Software Developer**, who is obsessed with the idea of improving himself and wants a platform to grow and excel  
-- 🌱I'm currently learning **ReactJs** & **NodeJs**
-- 📫 How to reach me aravindkumar471999@gmail.com
+- 🌱I'm currently learning **ReactJs**,**NodeJs** & **Java**
+- 📫 How to reach me araviku04@gmail.com
 
 
 [![Aravind GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind4799&show_icons=true&theme=radical
