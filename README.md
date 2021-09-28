@@ -10,7 +10,7 @@
  -->
 - **A final year undergraduate from SSN college of Engineering, chennai.**
 - 🔭 A budding **Full-Stack Software Developer**, who is obsessed with the idea of improving himself and wants a platform to grow and excel  
-- 🌱I'm currently learning **ReactJs**,**NodeJs** & **Java**
+- 🌱I'm currently learning **Angular**,**NodeJs** & **Java**
 - 📫 How to reach me araviku04@gmail.com
 
 
