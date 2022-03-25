@@ -5,10 +5,7 @@
 
 ## Hi there 👋, I am Aravind
  
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning about Full Stack Web Development 
- -->
-- ** Senior Software Developer At Larsen & Toubro Infotech, chennai.**
+- **Senior Software Developer At Larsen & Toubro Infotech, chennai**.
 - 🔭 An aspiring **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
 - 🌱I'm currently learning **React**,**NodeJs** & **Java**
 - 📫 How to reach me araviku04@gmail.com
