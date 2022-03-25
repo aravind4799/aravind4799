@@ -8,9 +8,9 @@
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning about Full Stack Web Development 
  -->
-- **A final year undergraduate from SSN college of Engineering, chennai.**
-- 🔭 An aspiring **Full-Stack Software Developer**, who is obsessed with the idea of improving himself and wants a platform to grow and excel  
-- 🌱I'm currently learning **Angular**,**NodeJs** & **Java**
+- ** Senior Software Developer At Larsen & Toubro Infotech, chennai.**
+- 🔭 An aspiring **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
+- 🌱I'm currently learning **React**,**NodeJs** & **Java**
 - 📫 How to reach me araviku04@gmail.com
 
 
