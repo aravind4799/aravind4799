@@ -5,9 +5,9 @@
 
 ## Hi there 👋, I am Aravind
  
-- **Senior Software Developer At Larsen & Toubro Infotech, chennai**.
-- 🔭 An aspiring **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
-- 🌱I'm currently learning **React**,**NodeJs** & **Java**
+- **CS Grad student at Purdue University - West Lafayette**.
+- 🔭 Cybersecurity enthusiast **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
+- 🌱I'm currently learning **Cryptography**,**Network Security** & **deep learning models focusing on infosec**
 - 📫 How to reach me araviku04@gmail.com
 
 
