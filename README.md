@@ -6,7 +6,7 @@
 ## Hi there 👋, I am Aravind
  
 - **CS Grad student at Purdue University - West Lafayette**.
-- 🔭 Cybersecurity enthusiast **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
+- 🔭 Cybersecurity enthusiast and a **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
 - 🌱I'm currently learning **Cryptography**,**Network Security** & **deep learning models focusing on infosec**
 - 📫 How to reach me araviku04@gmail.com
 
