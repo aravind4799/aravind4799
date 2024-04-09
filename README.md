@@ -7,7 +7,7 @@
  
 - **CS Grad student at Purdue University - West Lafayette**.
 - 🔭 Cybersecurity enthusiast and a **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
-- 🌱I'm currently learning **Cryptography**,**Network Security** & **deep learning models focusing on infosec**
+- 🌱I'm currently learning **Binary reverse engineering**
 - 📫 How to reach me araviku04@gmail.com
 
 
