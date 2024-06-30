@@ -15,6 +15,6 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind4799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Leetcode stats](https://leetcode-badge-sage.vercel.app/badge/{aravind4799}?theme={neutral})
+![Leetcode stats](https://leetcode-badge-sage.vercel.app/badge/{aravind4799}?theme={unicorn})
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aravind4799_Github)
