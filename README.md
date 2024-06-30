@@ -13,8 +13,7 @@
 
 [![Aravind GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind4799&show_icons=true&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind4799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind4799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\
 ![Leetcode stats](https://leetcard.jacoblin.cool/aravind4799?theme=unicorn&font=Offside)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aravind4799_Github)
