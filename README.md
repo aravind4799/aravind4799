@@ -7,7 +7,7 @@
  
 - **CS Grad student at Purdue University - West Lafayette**.
 - 🔭 Cybersecurity enthusiast and a **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
-- 🌱I'm currently learning **Binary reverse engineering**
+- 🌱I'm currently learning **REACT**
 - 📫 How to reach me araviku04@gmail.com
 
 
@@ -15,6 +15,6 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind4799&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Leetcode stats](https://leetcode-badge-sage.vercel.app/badge/{aravind4799}?theme={neutral})
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aravind4799_Github)
