@@ -7,7 +7,6 @@
  
 - **CS Grad student at Purdue University - West Lafayette**.
 - 🔭 Cybersecurity enthusiast and a **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
-- 🌱I'm currently learning **REACT**
 - 📫 How to reach me araviku04@gmail.com
 
 
