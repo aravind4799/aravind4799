@@ -5,9 +5,10 @@
 
 ## Hi there 👋, I am Aravind
  
-- **CS Grad student at Purdue University - West Lafayette**.
+- **CS Grad @ Purdue University - West Lafayette**.
 - 🔭 Cybersecurity enthusiast and a **Full-Stack Software Developer**, who is obsessed with the idea of improving himself.
-- 📫 How to reach me araviku04@gmail.com
+- I herd microservices for a living: build them in Spring Boot, dress them up with React, then shove them into Docker boxes so Kubernetes can babysit. If something crashes, I bribe it with more YAML.
+- 📫 How to reach me aravindkumarjuly41999@gmail.com
 
 
 [![Aravind GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind4799&show_icons=true&theme=radical
