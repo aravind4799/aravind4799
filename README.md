@@ -49,7 +49,7 @@ $ echo "Philosophy: Obsessed with the craft. Prioritizing the daily practice ove
 $ kubectl get skills -n aravind
 ```
 <details>
-<summary><b> Education - Purdue University</b></summary>
+<summary><b>🎓 Education - Purdue University</b></summary>
 
 ```yaml
 degree:
@@ -85,7 +85,7 @@ courses:
 </details>
 
 <details>
-<summary><b> Cloud & DevOps</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 
 ```yaml
 cloud:
@@ -127,7 +127,7 @@ devops:
 
 
 <details>
-<summary><b> Full Stack Development</b></summary>
+<summary><b>💻 Full Stack Development</b></summary>
 
 ```yaml
 backend:
