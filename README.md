@@ -153,6 +153,41 @@ databases:
 </details>
 
 ---
+
+```bash
+$ cat blogs.txt
+```
+
+<details>
+<summary><b>📝 Blog Posts</b></summary>
+
+**AWS & Cloud**
+- [My SQS Queue Was Blocked by a "Poison Pill." Here's How a DLQ Saved It.](https://medium.com/@araviku04/my-sqs-queue-was-blocked-by-a-poison-pill-heres-how-a-dlq-saved-it-a2f281323f9c)
+
+- [How I Built a Serverless CI/CD Pipeline on AWS](https://medium.com/@araviku04/how-i-built-a-serverless-ci-cd-pipeline-on-aws-66f4e5a902c2)
+
+**Docker & DevOps**
+- [Docker Compose: Run Multiple MySQL Containers on Port 3306 (No Conflicts) !?](https://medium.com/@araviku04/docker-compose-run-multiple-mysql-containers-on-port-3306-no-conflicts-796e72874a53)
+
+**Spring Boot & Microservices**
+- [Spring Boot Profiles Guide: Seamless Env Config & Live Refresh](https://medium.com/@araviku04/spring-boot-profiles-guide-seamless-env-config-live-refresh-d636eabc8305)
+
+- [Thread-Per-Request vs Reactive Programming in Spring: Tomcat's 200 Threads, Netty's Event Loop, and...](https://medium.com/@araviku04/thread-per-request-vs-reactive-programming-in-spring-tomcats-200-threads-netty-s-event-loop-and-e0d32b8cb4d8)
+
+- [EMERGENCY! Eureka May Be Claiming Instances Are Up When They're Not, Here's Why](https://medium.com/@araviku04/emergency-eureka-may-be-claiming-instances-are-up-when-theyre-not-here-s-why-e746b881b5a9)
+
+**Design Patterns & Resilience**
+- [Bulkhead Pattern in Microservices with Spring Boot & Resilience4j](https://medium.com/@araviku04/bulkhead-pattern-in-microservices-with-spring-boot-resilience4j-7285e6e88a6f)
+
+- [Retry Pattern in Microservices with Spring Boot and Resilience4j](https://medium.com/@araviku04/retry-pattern-in-microservices-with-spring-boot-and-resilience4j-bbb9fbd47438)
+
+- [Rate Limiter Pattern in Microservices using Spring Cloud Gateway and Resilience4j](https://medium.com/@araviku04/rate-limiter-pattern-in-microservices-using-spring-cloud-gateway-and-resilience4j-478373e68d44)
+
+- [Circuit Breaker Pattern in Spring Boot with Resilience4j and Spring Cloud Gateway](https://medium.com/@araviku04/circuit-breaker-pattern-in-spring-boot-with-resilience4j-and-spring-cloud-gateway-5b4a0d2c161f)
+
+</details>
+
+---
 ```bash
 $ kubectl apply -f leetcode-progress.yaml
 ```
