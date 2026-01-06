@@ -37,7 +37,7 @@ I appease them with more YAML."
 ```
 
 ```bash
-$ echo "Current Routine: 4hr Job Search | Remaining time: Learning & Breaking K8s | Working at Zentrais - https://zentrais.com/"
+$ echo "Current Routine: Job Search | Leetcode | Learning & Breaking K8s | Working at Zentrais - https://zentrais.com/"
 $ echo "Loading: CKA Certification..."
 $ echo "Future Goal: sudo kill -9 job_search && allocate --all-resources k8s && backend systems"
 $ echo "Philosophy: Obsessed with the craft. Prioritizing the daily practice over the destination."
