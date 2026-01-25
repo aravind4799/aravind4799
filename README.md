@@ -11,7 +11,7 @@
 │ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═════╝       │
 │                                                             │
 │  CS Grad @ Purdue University                                │
-│  Full-Stack | Kubernetes Enthusiast                         │
+│  Full-Stack | Distributed Systems | Kubernetes Enthusiast   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -35,27 +35,18 @@ paint them pretty with React, and lock them in Docker containers
 so Kubernetes can babysit. When they inevitably throw a tantrum, 
 I appease them with more YAML."
 ```
-
-```bash
-$ echo "Current Routine: Job Search | Leetcode | Learning & Breaking K8s | Working at Zentrais - https://zentrais.com/"
-$ echo "Loading: CKA Certification..."
-$ echo "Future Goal: sudo kill -9 job_search && allocate --all-resources k8s && backend systems"
-$ echo "Philosophy: Obsessed with the craft. Prioritizing the daily practice over the destination."
-```
-
 ---
 
 ```bash
 $ kubectl get skills -n aravind
 ```
 <details>
-<summary><b>🎓 Education - Purdue University</b></summary>
+<summary><b> Education </b></summary>
 
 ```yaml
 degree:
   - Master of Science in Computer Science
-  - Major Concentration: Information & Cybersecurity
-  - Campus: West Lafayette
+  - Campus: Purdue University, West Lafayette
   - Status: Completed
   - GPA: 3.77
 
@@ -81,11 +72,20 @@ courses:
   
   spring_2025:
     - CS 52800: Network Security
+    
+degree:
+  - Bachelor of Engineering in Computer Science
+  - Campus: Anna University, Chennai
+  - Status: Completed
+  - GPA: 8.7
+
+courses:
+  - A-Z in cs.
 ```
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b> Cloud & DevOps</b></summary>
 
 ```yaml
 cloud:
@@ -118,6 +118,7 @@ kubernetes_core: # CKAD Skills
 
 devops:
   - CI/CD Pipelines
+  - Github actions
   - GitOps
   - Monitoring & Logging
   - Observability
@@ -127,12 +128,12 @@ devops:
 
 
 <details>
-<summary><b>💻 Full Stack Development</b></summary>
+<summary><b> Full Stack Development</b></summary>
 
 ```yaml
 backend:
   - Java (Spring Boot)
-  - Node.js
+  - Node.js / Express / Nest.js
   - Python (Flask)
   - RESTful APIs
   - Microservices Architecture
@@ -152,22 +153,17 @@ databases:
 ```
 </details>
 
----
-
-```bash
-$ cat blogs.txt
-```
 
 <details>
-<summary><b>📝 Blog Posts</b></summary>
+<summary><b> Blog Posts</b></summary>
+
+**Docker & Kubernetes**
+- [CKAD 2026: What to Expect & How I Passed](https://medium.com/@araviku04/ckad-2026-what-to-expect-how-i-passed-448f134ac8b5)
+- [Docker Compose: Run Multiple MySQL Containers on Port 3306 (No Conflicts) !?](https://medium.com/@araviku04/docker-compose-run-multiple-mysql-containers-on-port-3306-no-conflicts-796e72874a53)
 
 **AWS & Cloud**
 - [My SQS Queue Was Blocked by a "Poison Pill." Here's How a DLQ Saved It.](https://medium.com/@araviku04/my-sqs-queue-was-blocked-by-a-poison-pill-heres-how-a-dlq-saved-it-a2f281323f9c)
-
 - [How I Built a Serverless CI/CD Pipeline on AWS](https://medium.com/@araviku04/how-i-built-a-serverless-ci-cd-pipeline-on-aws-66f4e5a902c2)
-
-**Docker & DevOps**
-- [Docker Compose: Run Multiple MySQL Containers on Port 3306 (No Conflicts) !?](https://medium.com/@araviku04/docker-compose-run-multiple-mysql-containers-on-port-3306-no-conflicts-796e72874a53)
 
 **Spring Boot & Microservices**
 - [Spring Boot Profiles Guide: Seamless Env Config & Live Refresh](https://medium.com/@araviku04/spring-boot-profiles-guide-seamless-env-config-live-refresh-d636eabc8305)
@@ -199,7 +195,6 @@ $ kubectl apply -f leetcode-progress.yaml
 </div>
 
 ---
-
 
 ```bash
 $ kubectl get visitors -n profile --watch
