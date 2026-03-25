@@ -37,6 +37,23 @@ I appease them with more YAML."
 ```
 ---
 
+### 🌟 OSS Contributions
+
+| Organization | Pull Requests |
+| :--- | :--- |
+| **Headlamp** | [Pull Requests](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3Aaravind4799) |
+| **Bitnami Charts** | [Pull Requests](https://github.com/bitnami/charts/pulls?q=is%3Apr+author%3Aaravind4799) |
+
+---
+
+### 🏆 Open Source Release Credits
+
+* **Headlamp** – [v0.41.0](https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.41.0) 
+
+
+---
+
+
 ```bash
 $ kubectl get skills -n aravind
 ```
